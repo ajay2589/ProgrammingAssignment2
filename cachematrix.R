@@ -1,5 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+# This R code computes Inverse of a Square Matrix by making use
+# of cache and leaxical scoping operator in R (<<-).
+# 
+# This code consists of two functions, namely: 
+# - cacheSolve
+# - makeCacheMatrix
 
 ## Write a short comment describing this function
 
