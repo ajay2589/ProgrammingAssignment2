@@ -1,6 +1,9 @@
 # This R code computes Inverse of a Square Matrix by making use
 # of cache and leaxical scoping operator in R (<<-).
 # 
+# It is beneficial to use this method to if inverse of a 
+# given matrix needs to be calculated over and over again.
+#
 # This code consists of two functions, namely: 
 # - cacheSolve
 # - makeCacheMatrix
