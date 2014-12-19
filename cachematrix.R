@@ -8,7 +8,14 @@
 # - cacheSolve
 # - makeCacheMatrix
 
-## Write a short comment describing this function
+
+# The makeCacheMatrix function serves as the cache for storing the 
+# inverse of a square matrix. It accepts a matrix and returns a list 
+# object consisting of the following components:
+#  - a function to set the vaule of the matrix
+#  - a function to get the value of the matrix
+#  - a function to get the inverse of the matrix
+#  - a function to set the inverse of the matrix
 
 makeCacheMatrix <- function(x = matrix()) {
         inverse <- NULL
