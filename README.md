@@ -103,3 +103,7 @@ In order to complete this assignment, you must do the following:
 ### Grading
 
 This assignment will be graded via peer assessment.
+
+### Modifications
+
+The *cachematrix.R* file has been edited and code has been added to it.
